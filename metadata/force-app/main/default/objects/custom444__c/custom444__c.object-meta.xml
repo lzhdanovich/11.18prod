@@ -153,7 +153,7 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>custom444editedInBranch/label>
+    <label>custom444 editedInBranch/label>
     <nameField>
         <label>custom444 Name</label>
         <type>Text</type>
