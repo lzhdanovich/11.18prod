@@ -153,7 +153,7 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>object15nov editedLabel</label>
+    <label>object15nov editedLabel 123</label>
     <nameField>
         <label>object15nov Name</label>
         <type>Text</type>
